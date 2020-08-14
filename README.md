@@ -1,2 +1,2 @@
 # Coursera_Capstone
-IBM / Coursera Data Sciene Capstone Project
+IBM / Coursera Data Science Capstone Project
